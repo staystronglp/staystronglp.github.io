@@ -1,2 +1,1 @@
-# staystronglp.github.io
-GitHub Pages
+staystronglp.github.io/index.html
