@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-30_1841-clone",
-    "currentPage": "page7.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5851,6 +5851,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/snmek-obrazovky-30-1430x294.png",
                 "thumb": "@PROJECT_PATH@/assets/images/snmek-obrazovky-30-1430x294-800x164.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/po9ibd02-1590x894.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/po9ibd02-1590x894-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
