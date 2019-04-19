@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-30_1841-clone",
-    "currentPage": "page8.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3963,6 +3963,19 @@
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/architecture-4132660-2000x952.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/architecture-4132660-2000x952-800x381.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Moje bláznivé já",
+                "active": false
+              },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
