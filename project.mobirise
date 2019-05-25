@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-30_1841-clone",
-    "currentPage": "page5.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5366,6 +5366,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/snmek-obrazovky-41-1281x661.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snmek-obrazovky-41-1281x661-800x413.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           }
