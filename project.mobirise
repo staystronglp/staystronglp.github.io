@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-30_1841-clone",
-    "currentPage": "page7.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3963,6 +3963,45 @@
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/jako-mu-2000x1196.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jako-mu-2000x1196-800x478.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Jako muž",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/hudba-a-ja-2000x1177.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hudba-a-ja-2000x1177-800x471.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Hudba a já",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/draci-kralovna-2000x1904.png",
+                "thumb": "@PROJECT_PATH@/assets/images/draci-kralovna-2000x1904-800x762.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Dračí královna",
+                "active": false
+              },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
